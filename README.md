@@ -1,2 +1,0 @@
-# Battleship
-Created with CodeSandbox
